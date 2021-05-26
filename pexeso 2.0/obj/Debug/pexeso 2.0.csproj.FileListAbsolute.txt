@@ -1,0 +1,7 @@
+D:\Škola\PRG\pexeso 2.0\pexeso 2.0\obj\Debug\pexeso 2.0.csprojAssemblyReference.cache
+D:\Škola\PRG\pexeso 2.0\pexeso 2.0\obj\Debug\pexeso 2.0.csproj.CoreCompileInputs.cache
+D:\Škola\PRG\pexeso 2.0\pexeso 2.0\bin\Debug\pexeso 2.0.exe.config
+D:\Škola\PRG\pexeso 2.0\pexeso 2.0\bin\Debug\pexeso 2.0.exe
+D:\Škola\PRG\pexeso 2.0\pexeso 2.0\bin\Debug\pexeso 2.0.pdb
+D:\Škola\PRG\pexeso 2.0\pexeso 2.0\obj\Debug\pexeso 2.0.exe
+D:\Škola\PRG\pexeso 2.0\pexeso 2.0\obj\Debug\pexeso 2.0.pdb
